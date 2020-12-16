@@ -903,7 +903,7 @@ export default {
       google: process.env.GOOGLE_CLIENT_ID, // eslint-disable-line
     });
     this.$store.dispatch('common:setTitle', {
-      fullTitle: 'Habitica - Gamify Your Life',
+      fullTitle: 'Serebrum World',
     });
   },
   methods: {
